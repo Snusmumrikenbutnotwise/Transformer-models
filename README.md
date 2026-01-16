@@ -9,3 +9,5 @@ Architecture modules implemented:
 - Rotatatory Positional Embedding
 
 Examples of small GPT-like models were also trained on three datasets of various difficulties.
+Right now there is an issue with github rendering of the notebook. It will work in vsc, jupyter or colab :)
+Here is a link to colab version: https://colab.research.google.com/drive/1ju12WMmkNMMjpsXikdsjZGOssdDi9mBX?usp=sharing
